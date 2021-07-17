@@ -1,0 +1,3 @@
+﻿  Bank Account.cpp
+e:\programs dsa\bank account - copy\bank account\bank account\account.h(912): warning C4715: 'Account::Check_Account_Same' : not all control paths return a value
+  Bank Account.vcxproj -> E:\programs DSA\Bank Account - Copy\Bank Account\Debug\Bank Account.exe
